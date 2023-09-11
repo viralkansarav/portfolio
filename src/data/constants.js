@@ -9,7 +9,7 @@ export const Bio = {
     "Welcome to my portfolio! I am a passionate MERN (MongoDB, Express.js, React, Node.js) Stack Developer with a proven track record of building robust, scalable, and interactive web applications. With a strong foundation in both front-end and back-end technologies, I am committed to delivering high-quality solutions that not only meet but exceed client expectations.",
   github: "https://github.com/viralkansarav",
   resume:
-    "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
+    "https://drive.google.com/file/d/1HPAOARrh3PxgcNnxqjsulgxB_Yi0DxgO/view",
   linkedin: "https://www.linkedin.com/in/veeralkansara/",
   twitter: "https://twitter.com/veeralkansara",
   insta: "https://www.instagram.com/veeral_kansara/",
