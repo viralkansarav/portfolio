@@ -4,10 +4,10 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 ## Some Images:
 
-[Main](screenshot.png)
-[Skills](screenshot1.png)
-[Projects](screenshot2.png)
-[Contact](screenshot3.png)
+![Main](screenshot.png)
+![Skills](screenshot1.png)
+![Projects](screenshot2.png)
+![Contact](screenshot3.png)
 
 ## Table of Contents
 
