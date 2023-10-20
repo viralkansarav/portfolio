@@ -385,6 +385,26 @@ export const projects = [
     github: "https://github.com/viralkansarav/amazon-clone",
     webapp: "https://viralkansarav.github.io/amazon-clone/",
   },
+    {
+    id: 12,
+    title: "User Authentication App",
+    // date: "Oct 2022 - Present",
+    description:
+      "This web application allows users to register, log in, and view a list of products. Users can also mark products as favorites, and their selections will be remembered when they log in again.",
+    image:
+      "https://raw.githubusercontent.com/viralkansarav/mern-authentication-backend/main/frontend1.png",
+    tags: [
+      "HTML5",
+      "CSS3",
+      "ReactJS",
+      "NodeJS",
+      "ExpressJS",
+      "MongoDB"
+    ],
+    category: "web app",
+    github: "https://github.com/viralkansarav/mern-authentication-backend",
+    webapp: "https://github.com/viralkansarav/mern-authentication-frontend",
+  },
   // {
   //   id: 2,
   //   title: "Brain Tumor Detection",
