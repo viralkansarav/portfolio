@@ -343,7 +343,7 @@ export const projects = [
     webapp: "https://viralkansarav.github.io/weather-application/",
   },
   {
-    id: 0,
+    id: 13,
     title: "ToDO-List",
     // date: "Apr 2023 - May 2023",
     description:
@@ -404,6 +404,23 @@ export const projects = [
     category: "web app",
     github: "https://github.com/viralkansarav/mern-authentication-backend",
     webapp: "https://github.com/viralkansarav/mern-authentication-frontend",
+  },
+  {
+    id: 0,
+    title: "Code-Now Online Code Editor",
+    // date: "Oct 2022 - Present",
+    description:
+      "Code Editor is a versatile web application that enables users to write, edit, and visualize HTML, CSS, and JavaScript code in real-time. It's built using React.js and provides a user-friendly interface for web developers and enthusiasts to experiment with and showcase their coding skills.",
+    image:
+      "https://raw.githubusercontent.com/viralkansarav/code-now/main/screenshot1.png",
+    tags: [
+      "HTML5",
+      "CSS3",
+      "ReactJS",
+    ],
+    category: "web app",
+    github: "https://github.com/viralkansarav/code-now",
+    webapp: "https://viralkansarav.github.io/code-now/",
   },
   // {
   //   id: 2,
